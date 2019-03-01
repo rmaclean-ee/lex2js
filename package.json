@@ -1,6 +1,6 @@
 {
   "name": "lex2js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lex format json files to code and back",
   "main": "src/index.js",
   "scripts": {
@@ -33,8 +33,8 @@
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-plugin-import": "2.14.0",
     "husky": "1.2.0",
-    "nyc": "13.1.0",
-    "sinon": "7.2.2",
+    "nyc": "13.3.0",
+    "sinon": "7.2.5",
     "tap-spec": "5.0.0",
     "tape": "4.9.1"
   },
